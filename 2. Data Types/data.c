@@ -13,7 +13,7 @@ int main() {
     /*
      * %i - int
      * %f - float
-     * %lf - double
+     * %lf - double (long float)
      * %c - char
      * %s - string
      *
