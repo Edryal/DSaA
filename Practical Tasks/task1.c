@@ -21,6 +21,7 @@ int main() {
 
     printf("\n\n[ Odd numbers from 1 to 100 ]\n");
     oddNumbers();
+    
     /* Functions */
     int number;
     printf("\n\n[ Enter a number ]\n");
